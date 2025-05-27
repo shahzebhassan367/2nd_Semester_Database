@@ -1,4 +1,4 @@
-# BreeCafe Database Management System
+# BreeCafe Database  System
 
 Welcome to the BreeCafe Database project! ☕  
 This is a complete database system designed for managing the operations of BreeCafe, including customers, orders, employees, inventory, and more.
@@ -32,7 +32,7 @@ This is a complete database system designed for managing the operations of BreeC
 
 ---
 
-## 📋 ERD Overview
+ 📋 ERD Overview
 
 The system includes the following main entities:
 
@@ -59,4 +59,5 @@ The system includes the following main entities:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/breecafe-database.git
+https://github.com/shahzebhassan367/2nd_Semester_Database
+this is the link of my repostry
